@@ -1,8 +1,8 @@
-Climbing Goals
---------------
+Goals
+=====
 
-Long-term goals
-===============
+Long-term
+---------
 
 + Liquid Oxygen (12a)
 + Mentor (12b)

@@ -1,5 +1,5 @@
 Rock Prodigy Method:
---------------------
+====================
 
 1. Develop a Plan (Ch 2, 4, 10)
 2. Base Fitness & Skill Development (Ch 3, 5)
@@ -11,7 +11,7 @@ Rock Prodigy Method:
 
 
 Goal-setting
-============
+------------
 
 + Get specific and use visuals of routes to get/stay inspired.
 + Design life for path of least-resistance for short-term goals.
@@ -24,7 +24,7 @@ Goal-setting
 + Train specifically to improve weaknesses.
 
 Positive Experiences
-====================
+--------------------
 
 ### Shootin' Blanks (12b)
 + MAPLE
@@ -82,7 +82,7 @@ Positive Experiences
 + Scream-top-out
 
 Negative Experiences
-====================
+--------------------
 
 ### Liquid Oxygen (12a)
 + AF (Division)
@@ -107,7 +107,7 @@ Negative Experiences
 ----------------------
 
 Weaknesses
-==========
+----------
 
 + Weak core
 + Get pumped on the steep *very* quickly
@@ -118,7 +118,7 @@ Weaknesses
 + Low Endurance (pumped after a few relatively easy sport climbs)
 
 Strengths
-=========
+---------
 
 + Very strong technical knowledge
 + Sequence and route finding are as good as anyone I know
